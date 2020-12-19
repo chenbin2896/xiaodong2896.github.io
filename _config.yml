@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-title: <a href='https://blog.csdn.net/qq_37740841' style="color:#fff;cursor:pointer">一点博客</a>
-description: 专注是一种习惯
+title: <a href='https://blog.csdn.net/qq_37740841' style="color:#fff;cursor:pointer;text-decoration:none">一点博客</a>
+description: 专注是一种习惯<br/>GitHub  Gitee
+logo_path: "assets/img/logo.png" 
