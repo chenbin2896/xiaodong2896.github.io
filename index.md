@@ -1,4 +1,4 @@
-### [JAVA基础](#java-basic)
+### [JAVA基础](#java-basic)                        [JAVA基础](#java-basic)
 ### [Redis](#java-basic)
 ### [Zookeeper](#java-basic)
 
