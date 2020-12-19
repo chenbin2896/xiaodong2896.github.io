@@ -1,4 +1,4 @@
-<img src="https://img-blog.csdnimg.cn/20201219155256904.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM3NzQwODQx,size_16,color_FFFFFF,t_70#pic_center">
+<img src="https://img-blog.csdnimg.cn/20201219155256904.jpg">
 
 | JAVA                     | 中间件                  | 框架                  | 性能优化        | 数据结构       | 算法               | 大数据              | DevOps            |
 | ------------------------ | ----------------------- | --------------------- | --------------- | -------------- | ------------------ | ------------------- | ----------------- |
@@ -69,3 +69,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### 设计模式
 
+
+
+
+
+<img src="https://img-blog.csdnimg.cn/20191022115004938.jpg">
