@@ -1,23 +1,8 @@
-<img src="https://img-blog.csdnimg.cn/20201219155256904.jpg">
 
-| JAVA                     | 中间件                  | 框架                        | 性能优化        | 数据结构       | 算法               | 大数据              | DevOps            |
-| ------------------------ | ----------------------- | --------------------------- | --------------- | -------------- | ------------------ | ------------------- | ----------------- |
-| [JAVA基础](#java-basic)  | [Redis](#redis)         | [Spring](#spring)           | [JVM](#jvm)     | [链表](#redis) | [贪心](#redis)     | [Hadoop](#redis)    | [Jenkins](#redis) |
-| [JVM](#jvm)              | [Zookeeper](#zookeeper) | [SpringMVC](#springmvc)     | [MySQL](#mysql) | [树](#redis)   | [动态规划](#redis) | [Spark](#redis)     | [Docker](#redis)  |
-| [多线程](#multi-thread)  | [Tomcat](#tomcat)       | [MyBatis](#mybatis)         |                 | [图](#redis)   | [推荐算法](#redis) | [Storm](#redis)     | [K8S](#redis)     |
-| [设计模式](#java-design) | [Nginx](#nginx)         | [SpringBoot](#springboot)   |                 |                |                    | [MapReduce](#redis) |                   |
-|                          | [RabbitMQ](#rabbitmq)   | [SpringCloud](#springcloud) |                 |                |                    |                     |                   |
-|                          | [Kafka](#kafka)         |                             |                 |                |                    |                     |                   |
-|                          | [Dubbo](#dubbo)         |                             |                 |                |                    |                     |                   |
-|                          | [Netty](#netty)         |                             |                 |                |                    |                     |                   |
-
-
-
-------
 
 <span id="java-basic"></span>
 
-## JAVA基础
+## JAVA
 
 [集合](https://github.com/xiaoguangdong999/xiaoguangdong999.github.io.git)
 
@@ -25,9 +10,6 @@
 
 [反射](https://github.com/xiaoguangdong999/xiaoguangdong999.github.io.git)
 
-<span id="jvm"></span>
-
-## JVM
 
 [JVM内存结构](https://github.com/xiaoguangdong999/xiaoguangdong999.github.io.git)
 
@@ -39,9 +21,6 @@
 
 [实战调优](https://github.com/xiaoguangdong999/xiaoguangdong999.github.io.git)
 
-<span id="multi-thread"></span>
-
-## 多线程
 
 [synchronized与volatile]()
 
@@ -85,14 +64,5 @@
 
 [zookeeper开发](https://github.com/xiaoguangdong999/xiaoguangdong999.github.io.git)
 
-<span id="springmvc"></span>
-
-## SpringMVC
-
-[SpringMVC的应用]()
-
-[相关源码]()
 
 ------
-
-<img src="https://img-blog.csdnimg.cn/20191022115004938.jpg">
