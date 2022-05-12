@@ -5,16 +5,16 @@ markdown: kramdown
 
 # 作者信息
 author: 
-  name: 李乾坤
-  email: qiankun.li@qq.com
+  name: 张晨彬
+  email: zhangchenbin@axbt.top
   link: 
   weibo: 
-  github: http://qiankunli.github.io
+  github: http://github.com/xiaoguangdong999
 
 # 站点信息
-title: 李乾坤的博客 
-description: 李乾坤的博客
-url: http://qiankunli.github.io
+title: 一点博客
+description: 一点博客
+url: http://www.axbt.top
 rss_url: 
 
 # gavatar头像及Favicon
