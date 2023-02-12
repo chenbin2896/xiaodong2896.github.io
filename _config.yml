@@ -6,15 +6,15 @@ markdown: kramdown
 # 作者信息
 author: 
   name: 张晨彬
-  email: zhangchenbin@axbt.top
+  email: chenbin@dianblog.com
   link: 
   weibo: 
-  github: http://github.com/xiaoguangdong999
+  github: http://github.com/xiaodong2896
 
 # 站点信息
 title: 一点博客
 description: 一点博客
-url: http://www.axbt.top
+url: http://blog.dianblog.com
 rss_url: 
 
 # gavatar头像及Favicon
